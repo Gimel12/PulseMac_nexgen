@@ -2,8 +2,6 @@
 
 PulseMac is a native macOS system-control dashboard built with SwiftUI. It shows what is using your CPU, memory, disk, and network ports, then gives you explicit controls to stop processes and recover storage safely.
 
-![PulseMac dashboard](docs/PulseMac-Preview.png)
-
 ## Features
 
 - Live CPU, memory, compressed-memory, swap, and disk monitoring
